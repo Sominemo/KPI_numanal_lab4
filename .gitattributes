@@ -1,6 +1,4 @@
-*.cpp linguist-vendored
-
-ios/* linguist-vendored
-android/* linguist-vendored
-windows/* linguist-vendored
-web/* linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
+windows/** linguist-vendored
+web/** linguist-vendored
