@@ -1,4 +1,1 @@
-ios/* linguist-vendored=true
-android/* linguist-vendored=true
-windows/* linguist-vendored=true
-web/* linguist-vendored=true
+*.cpp linguist-vendored
